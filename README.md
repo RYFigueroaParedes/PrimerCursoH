@@ -1,2 +1,1 @@
-# PrimerCursoH
-Carpeta de practica
+Este proyecto es un prueba de como crear un repositorio y clonarlo desde githud a mi escritorio local
