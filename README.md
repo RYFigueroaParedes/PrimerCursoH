@@ -1,1 +1,1 @@
-Este proyecto es un prueba de como crear un repositorio y clonarlo desde githud a mi escritorio local
+Segunda oportunidad de editado para la siguiente carpeta 
